@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Bonjour Bob !
+Je suis en cours d'apprentissage de GitHub
